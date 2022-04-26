@@ -19,3 +19,4 @@ And even though I tried, it all fell apart
 What it meant to me
 Will eventually be a memory of a time when
 feature part 3 commit 1
+feature part 3 commit 2
